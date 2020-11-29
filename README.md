@@ -1,3 +1,6 @@
+[![](https://camo.githubusercontent.com/e2ad169be7fbb53a876ab41ae4a20d5b8586955bde78ccb002f63feb700982c1/68747470733a2f2f692e696d6775722e636f6d2f4c47363345714b2e706e67)](https://camo.githubusercontent.com/e2ad169be7fbb53a876ab41ae4a20d5b8586955bde78ccb002f63feb700982c1/68747470733a2f2f692e696d6775722e636f6d2f4c47363345714b2e706e67)
+
+[
 [![Build Status](https://camo.githubusercontent.com/a9b20ee503383b46bf579942dd82d4eb52f2dabedfae57d9661860de9d80f443/68747470733a2f2f7472617669732d63692e6f72672f506f432d436f6e736f727469756d2f73636176656e6765722e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/PoC-Consortium/scavenger)  [![License: GPL v3](https://camo.githubusercontent.com/400c4e52df43f6a0ab8a89b74b1a78d1a64da56a7848b9110c9d2991bb7c3105/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c76332d626c75652e737667)](https://www.gnu.org/licenses/gpl-3.0)
 
 # [](https://github.com/PoC-Scavenger/scavenger#scavenger---poc-miner-in-rust)Scavenger - PoC miner in Rust
